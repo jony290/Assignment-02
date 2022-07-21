@@ -57,7 +57,8 @@ body {
 
 }
 
-.up-match {
+.up-coming-match {
+
     border: 20%;
     width: 100%;
     height: 200%;
@@ -92,4 +93,26 @@ body {
 .image-footer {
     display: flex;
 
+}
+
+footer {
+    background-color: black;
+    padding-top: 80px;
+
+
+}
+
+hr {
+    border: 1px solid azure;
+}
+
+.goal {
+
+    text-align: center;
+
+}
+
+.last-content {
+    display: flex;
+    justify-content: space-evenly;
 }
